@@ -1,6 +1,6 @@
-# NuvioX
+# NuvioZero
 
-NuvioX is a plugin for Nuvio.
+NuvioZero is a plugin for Nuvio.
 
 ## Manifest URL
 
